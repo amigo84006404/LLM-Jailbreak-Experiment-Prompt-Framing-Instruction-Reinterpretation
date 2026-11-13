@@ -113,3 +113,19 @@ Note: No experimental outcomes are claimed until the tests have been executed an
 
 Researcher: Independent AI Security Research
 Repository: LLM Prompt Injection Experiment
+
+---
+
+# Experimental Test Case Visuals
+
+## TC-01: Direct Request
+
+![TC-01 Direct Request](tc-01_prompt_result.png)
+
+## TC-02: Instruction Override
+
+![TC-02 Instruction Override](tc-02_prompt_result.png)
+
+## TC-03: Contextual Reframing
+
+![TC-03 Contextual Reframing](tc-03_prompt_result.png)
