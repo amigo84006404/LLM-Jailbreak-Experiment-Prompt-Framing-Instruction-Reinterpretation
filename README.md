@@ -114,7 +114,6 @@ Note: No experimental outcomes are claimed until the tests have been executed an
 Researcher: Independent AI Security Research
 Repository: LLM Prompt Injection Experiment
 
----
 
 # Experimental Test Case Visuals
 
